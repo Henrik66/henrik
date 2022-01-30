@@ -1,5 +1,5 @@
----
 layout: style
+title: Henrik Gombos's thoughts on debate and critical discussions
 ---
 
 _Created by Henrik Gombos_
