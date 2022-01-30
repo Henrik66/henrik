@@ -1,3 +1,4 @@
+---
 layout: style
 title: Henrik Gombos's thoughts on debate and critical discussions
 ---
