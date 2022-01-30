@@ -16,7 +16,7 @@ Although you do not get much time, squeezing in more information can make a huge
 
 The simplest way to get all of your information down is to write bullet points when doing research. You should always have your bullets organized though. For example, I organize each set of bullet points to one argument, and my arguments and rebuttals are separated. This way, when I write my speeches, I have all the information that I need where I need it. 1 argument should be long enough for the judges to understand the point you're making, but not too long because you want to fit in as many cases as possible.
 
-<img src="{{site.baseurl}}/assets/debate.webp">
+<img src="/assets/debate.webp">
 
 ## How I Do it
 
